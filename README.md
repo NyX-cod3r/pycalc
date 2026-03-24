@@ -1,6 +1,6 @@
 # Animated Scientific Calculator
 
-A Samsung-style scientific calculator desktop app built with Python and Tkinter.
+A scientific calculator desktop app built with Python and Tkinter.
 
 ## Features
 
@@ -27,4 +27,4 @@ python calculator.py
 ## Requirements
 
 - Python 3.9+
-- Tkinter (usually included with standard Python installers)
+- Tkinter 
